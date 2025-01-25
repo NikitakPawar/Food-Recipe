@@ -5,17 +5,17 @@
 
 # Key Features:
 
-# Rich Recipe Collection: 
+1. Rich Recipe Collection: 
 Explore a diverse range of recipes with step-by-step instructions, ingredient lists, and cooking tips.
-# Top Chef Section: 
+2. Top Chef Section: 
 Discover exclusive recipes and insights from world-renowned chefs, handpicked for our users.
-# Interactive Animations: 
+3. Interactive Animations: 
 Smooth transitions and visually appealing effects enhance user engagement and create a delightful browsing experience.
-# Theme Settings: 
+4. Theme Settings: 
 Personalize the website with light and dark modes or choose custom themes to suit your mood and style.
-# Advanced Search & Filters: 
+5. Advanced Search & Filters: 
 Quickly find recipes by cuisine, diet preference, preparation time, or key ingredients.
-# Responsive Design:
+6. Responsive Design:
 Optimized for seamless use across devices, from desktops to smartphones
 
 This platform is perfect for anyone, from beginner cooks to seasoned food enthusiasts, looking to spice up their culinary repertoire while enjoying a visually stunning and interactive experience.
