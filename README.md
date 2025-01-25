@@ -1,7 +1,7 @@
 # Food-Recipe
 # FoodiesHub - A Culinary Journey
 
-# Delightful Bites is a beautifully crafted food recipe website designed to make cooking enjoyable and accessible for everyone. Built using HTML, CSS, JavaScript, and ReactJS, the website features an intuitive interface and engaging animations that bring recipes to life. From quick meals to gourmet dishes, you’ll find a wide variety of recipes tailored to your taste and skill level.
+ Delightful Bites is a beautifully crafted food recipe website designed to make cooking enjoyable and accessible for everyone. Built using HTML, CSS, JavaScript, and ReactJS, the website features an intuitive interface and engaging animations that bring recipes to life. From quick meals to gourmet dishes, you’ll find a wide variety of recipes tailored to your taste and skill level.
 
 # Key Features:
 
